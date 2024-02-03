@@ -1,0 +1,12 @@
+.abc{
+    width: 600px;
+    margin: 0 auto;
+}
+canvas {
+    max-width: 100%;
+    height: auto;
+}
+body{
+
+    background-color: rgba(25, 0, 255, 0.09);
+}
